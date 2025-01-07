@@ -103,7 +103,7 @@ def faq_ru():
 
 
 
-TELEGRAM_BOT_TOKEN = '6720914671:AAHiXeV4vn8PcvikXXYJ6NNmf29INFxZUYE'
+TELEGRAM_BOT_TOKEN = '**'
 TELEGRAM_CHAT_ID = '6173241480'
 
 @app.route('/send_quote', methods=['POST'])
